@@ -250,8 +250,8 @@ vpsBench() {
 	echo "                            "
 	echo "1. 使用misakabench"
 	echo "2. 使用bench.sh"
-	echo "2. 使用superbench"
-	echo "3. 使用lemonbench"
+	echo "3. 使用superbench"
+	echo "4. 使用lemonbench"
 	echo "                            "
 	echo "0. 返回主菜单"
 	read -p "请输入选项:" page3NumberInput
